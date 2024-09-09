@@ -1,5 +1,10 @@
 # training-aws-cloud
 
+# Detail 
+
+- 15 h
+- Beginer
+
 # Content
 
 ## Basics
